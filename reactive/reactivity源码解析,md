@@ -115,7 +115,7 @@ setInterval(() => {
 
 这是一个很简单的例子，但和vue中的实现很类似，但没有像vue那样实现的复杂和健壮。但是对于理解vue核心的响应式原理有一定的帮助。
 
-![reactive](./reactive.jpg)
+![reactive](reactive.jpg)
 
 - 首先使用reactive函数使用proxy代理源对象，并利用get和set来进行劫持数据、
 
