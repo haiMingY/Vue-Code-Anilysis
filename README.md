@@ -5,7 +5,7 @@
 
 ### 主要内容
 
-- **基于Proxy的响应式系统**：探讨Vue3如何使用ES6 Proxy替代Object.defineProperty，实现实时的数据绑定和依赖收集机制。[reactive源码分析](./reactive/reactive源码分析)
+- **基于Proxy的响应式系统**：探讨Vue3如何使用ES6 Proxy替代Object.defineProperty，实现实时的数据绑定和依赖收集机制。[reactive源码分析](./reactive/reactive源码分析.md)
 
 ## 如何阅读与贡献
 
