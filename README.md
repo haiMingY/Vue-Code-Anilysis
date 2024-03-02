@@ -15,6 +15,8 @@
 
 - **Vue Scheduler**: 探讨Vue3中的调度模块和异步更新策略，以及nextTick API  [详情](runtime-core/vue调度器(Scheduler).md)
 
+- **Vue mount**: 探讨Vue3的创建挂载和更新过程  [详情](runtime-core/mount.md)
+
   
 
 ## 资源链接
